@@ -1,0 +1,3 @@
+MQTT_BROKER = ""
+WIFI_2_SSID = ""
+WIFI_2_PASSWORD = ""
